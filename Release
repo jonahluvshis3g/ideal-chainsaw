@@ -1,8 +1,0 @@
-Origin: ideal-chainsaw
-Label: ideal-chainsaw
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: ideal-chainsaw
