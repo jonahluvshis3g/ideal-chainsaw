@@ -1,0 +1,10 @@
+Package: com.ideal-chainsaw.mytweak
+Name: My Tweak
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Example tweak for iOS 6
+Maintainer: Ideal Chainsaw
+Author: Ideal Chainsaw
+Section: Tweaks
+Depends: firmware (>= 6.0)
+Depiction: https://ideal-chainsaw.org/depictions/com.ideal-chainsaw.mytweak.html

@@ -1,0 +1,8 @@
+Origin: Ideal Chainsaw
+Label: Ideal Chainsaw
+Suite: stable
+Version: 1.0
+Codename: ios6
+Architectures: iphoneos-arm
+Components: main
+Description: Ideal Chainsaw Cydia repository for legacy iOS devices.
