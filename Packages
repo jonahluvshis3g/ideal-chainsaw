@@ -46,3 +46,19 @@ Description: Experimental external-display / HDMI mirroring helper for iOS 6.
 Author: Jonah
 Name: ForceHDMI
 
+Package: com.local.classicblue
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ClassicBlue
+Installed-Size: 156
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 7.0)
+Filename: debs/com.local.classicblue_1.0.0_iphoneos-arm.deb
+Size: 14764
+MD5sum: 6b80f8bbb434b5567b6cc5089b7a138a
+SHA1: 4a36b6e03f407ed87d1cfb3022a91d8bb64c836f
+SHA256: 09aa50da037a92421916bab316b279989f049f56f8ba9cfcd30b42a2b1e93052
+Section: Tweaks
+Description: Custom color for classic iOS 6 blue UIKit controls.
+Author: ClassicBlue
+Name: ClassicBlue
+
