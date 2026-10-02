@@ -1,14 +1,14 @@
 Package: com.example.roleplay6
-Version: 2.0.2
+Version: 2.0.3
 Architecture: iphoneos-arm
 Maintainer: Roleplay6
 Installed-Size: 284
 Depends: firmware (>= 6.0)
-Filename: debs/com.example.roleplay6_2.0.2_iphoneos-arm.deb
-Size: 137344
-MD5sum: dbd05235e05db8e151d16625e3e2e063
-SHA1: 74f283c8209c0ea150c54fc2b117e73219d1ee70
-SHA256: 8268cf631762dec95b995688c276034ac21ea232057f66ea1f2781c2f1fe4b41
+Filename: debs/com.example.roleplay6_2.0.3_iphoneos-arm.deb
+Size: 137472
+MD5sum: 59b2425252582d8188e9ed0a31eb7143
+SHA1: b71b84a5ee7862d8c430f805a38b1e1bc3984543
+SHA256: 732c331a57695c5b59167caaa722a487d241f09d905335af2fc1f5daf84e7295
 Section: Applications
 Description: AI character chat for iOS 6, using a local AI bridge.
 Author: Roleplay6
