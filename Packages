@@ -47,6 +47,54 @@ Author: Jonah
 Name: ForceHDMI
 
 Package: com.local.classicblue
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ClassicBlue
+Installed-Size: 156
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 7.0)
+Filename: debs/com.local.classicblue_1.0.0_iphoneos-arm.deb
+Size: 14764
+MD5sum: 6b80f8bbb434b5567b6cc5089b7a138a
+SHA1: 4a36b6e03f407ed87d1cfb3022a91d8bb64c836f
+SHA256: 09aa50da037a92421916bab316b279989f049f56f8ba9cfcd30b42a2b1e93052
+Section: Tweaks
+Description: Custom color for classic iOS 6 blue UIKit controls.
+Author: ClassicBlue
+Name: ClassicBlue
+
+Package: com.local.classicblue
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: ClassicBlue
+Installed-Size: 188
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 7.0)
+Filename: debs/com.local.classicblue_1.1.0_iphoneos-arm.deb
+Size: 19786
+MD5sum: 1f286774154b86f0ea657b46082d1761
+SHA1: 73b9bcd2644f919b8e505d1fed47cf310985d498
+SHA256: d637d79446a093101ba9511e911dc082123518b8ad4b0628a8a22bdb6ca75b93
+Section: Tweaks
+Description: Custom color for classic iOS 6 blue UIKit controls.
+Author: ClassicBlue
+Name: ClassicBlue
+
+Package: com.local.classicblue
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: ClassicBlue
+Installed-Size: 188
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 7.0)
+Filename: debs/com.local.classicblue_1.2.0_iphoneos-arm.deb
+Size: 22388
+MD5sum: fcd1a4644528d40af752aa1fbd57da0d
+SHA1: 1afb996d30176265c28ae89466f2ab11165458e4
+SHA256: 41eda1d481745a02c28875504b492f44924dd5ed12fc3eca9bedd3e4ed0ad202
+Section: Tweaks
+Description: Custom color for classic iOS 6 blue UIKit controls.
+Author: ClassicBlue
+Name: ClassicBlue
+
+Package: com.local.classicblue
 Version: 1.3.0
 Architecture: iphoneos-arm
 Maintainer: ClassicBlue
@@ -73,6 +121,22 @@ Size: 25964
 MD5sum: fbad39b87287fb7ae9c8e5860e681e56
 SHA1: fa482bd5322acb0ff0a59d7fcb53098365a557fa
 SHA256: 7eea18435e9c1f17072568d5d2ac18d08f0520ab460f95e94e965c95af17d89c
+Section: Tweaks
+Description: Custom color for classic iOS 6 blue UIKit controls.
+Author: ClassicBlue
+Name: ClassicBlue
+
+Package: com.local.classicblue
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: ClassicBlue
+Installed-Size: 188
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 7.0)
+Filename: debs/com.local.classicblue_1.3.2_iphoneos-arm.deb
+Size: 26350
+MD5sum: 5cf6d127ba23973f3bba7d355b0fdf9d
+SHA1: 300f26939c25b2084cfcf51693e8558521b7c0ea
+SHA256: 3546dce9a23ce404c4c206a5c0ce158a439e4495f8944b3164357da7880a2e23
 Section: Tweaks
 Description: Custom color for classic iOS 6 blue UIKit controls.
 Author: ClassicBlue
