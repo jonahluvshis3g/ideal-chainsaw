@@ -1,34 +1,34 @@
 Package: com.example.roleplay5
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: Roleplay5
 Installed-Size: 284
 Depends: firmware (>= 5.0)
-Filename: debs/com.example.roleplay5_1.0.0_iphoneos-arm.deb
-Size: 137930
-MD5sum: 11563166e6688fcd3a8772ec60f4772c
-SHA1: 67fa483b59d03d919b6e3334a8003749052fc1ea
-SHA256: acfeeed082fa6239416b57d81e87aeb9bb91bf52c9fc5f48571f973358045651
+Filename: debs/LegacyAI-iOS5.deb
+Size: 138036
+MD5sum: b7debdd6f41385968954e1d2b3b21717
+SHA1: 604357c95d3a771de6b1931ce0fad8b52d1cc47f
+SHA256: c9a5734893484255339a0b9a7d92a5ea415fce4a592df5138fe198df4fcd9334
 Section: Applications
 Description: AI character chat for iOS 5, using a local AI bridge.
 Author: Roleplay5
-Name: Roleplay5
+Name: LegacyAI
 
 Package: com.example.roleplay6
-Version: 2.0.3
+Version: 2.1.0
 Architecture: iphoneos-arm
 Maintainer: Roleplay6
 Installed-Size: 284
 Depends: firmware (>= 6.0)
-Filename: debs/com.example.roleplay6_2.0.3_iphoneos-arm.deb
-Size: 137472
-MD5sum: 59b2425252582d8188e9ed0a31eb7143
-SHA1: b71b84a5ee7862d8c430f805a38b1e1bc3984543
-SHA256: 732c331a57695c5b59167caaa722a487d241f09d905335af2fc1f5daf84e7295
+Filename: debs/LegacyAI-iOS6.deb
+Size: 137602
+MD5sum: 55bf2a777bff9b02b305aeafbbaf2ff4
+SHA1: 0b64763aa441eb647535edaf60bd3e75b8763a7b
+SHA256: bb03cbe3e1871db533e9ffdfb7fd6b9837111e76e54fa5f37e9795e54df9e2f8
 Section: Applications
 Description: AI character chat for iOS 6, using a local AI bridge.
 Author: Roleplay6
-Name: Roleplay6
+Name: LegacyAI
 
 Package: com.ideal-chainsaw.forcehdmi
 Version: 0.1.0-1+debug
