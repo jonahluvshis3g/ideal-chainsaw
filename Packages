@@ -47,16 +47,16 @@ Author: Jonah
 Name: ForceHDMI
 
 Package: com.local.classicblue
-Version: 1.1.0
+Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: ClassicBlue
 Installed-Size: 188
 Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 7.0)
-Filename: debs/com.local.classicblue_1.1.0_iphoneos-arm.deb
-Size: 19786
-MD5sum: 1f286774154b86f0ea657b46082d1761
-SHA1: 73b9bcd2644f919b8e505d1fed47cf310985d498
-SHA256: d637d79446a093101ba9511e911dc082123518b8ad4b0628a8a22bdb6ca75b93
+Filename: debs/com.local.classicblue_1.2.0_iphoneos-arm.deb
+Size: 22388
+MD5sum: fcd1a4644528d40af752aa1fbd57da0d
+SHA1: 1afb996d30176265c28ae89466f2ab11165458e4
+SHA256: 41eda1d481745a02c28875504b492f44924dd5ed12fc3eca9bedd3e4ed0ad202
 Section: Tweaks
 Description: Custom color for classic iOS 6 blue UIKit controls.
 Author: ClassicBlue
