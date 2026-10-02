@@ -1,3 +1,19 @@
+Package: com.example.roleplay5
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Roleplay5
+Installed-Size: 284
+Depends: firmware (>= 5.0)
+Filename: debs/com.example.roleplay5_1.0.0_iphoneos-arm.deb
+Size: 137930
+MD5sum: 11563166e6688fcd3a8772ec60f4772c
+SHA1: 67fa483b59d03d919b6e3334a8003749052fc1ea
+SHA256: acfeeed082fa6239416b57d81e87aeb9bb91bf52c9fc5f48571f973358045651
+Section: Applications
+Description: AI character chat for iOS 5, using a local AI bridge.
+Author: Roleplay5
+Name: Roleplay5
+
 Package: com.example.roleplay6
 Version: 2.0.3
 Architecture: iphoneos-arm
