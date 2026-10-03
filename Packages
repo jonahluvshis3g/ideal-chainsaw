@@ -1,49 +1,19 @@
-Package: com.example.roleplay4
-Version: 1.0.0
+Package: com.example.roleplay6
+Version: 3.0.0
 Architecture: iphoneos-arm
-Maintainer: Roleplay5
-Installed-Size: 356
-Depends: firmware (>= 4.3)
-Filename: debs/LegacyAI-iOS4.deb
-Size: 167678
-MD5sum: e6954eac988b6f4aae5415e35033f7a3
-SHA1: 25eab4d3c67e97e85eed9ee28bf8c542001284d2
-SHA256: 7b082aad0f53c615172f8c440a62e8510236ef01fd3725daf73158c21f94acd3
-Section: Applications
-Description: AI character chat for iOS 4.3, using a local AI bridge.
-Author: Roleplay5
-Name: LegacyAI
-
-Package: com.example.roleplay5
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: Roleplay5
+Maintainer: LegacyAI
 Installed-Size: 284
 Depends: firmware (>= 5.0)
-Filename: debs/LegacyAI-iOS5.deb
-Size: 138546
-MD5sum: 6d037adc45e985a20bebfe74c3729736
-SHA1: 05221d76c49ad9eeb8f0e1be5e340621abfe999b
-SHA256: ed11e7b8c3ef25f53ed31f1f5da62faad0574596a5b3539b724baa91f7863163
+Conflicts: com.example.roleplay5
+Replaces: com.example.roleplay5
+Filename: debs/LegacyAI.deb
+Size: 138460
+MD5sum: f18cb28fc52fe914665fbf3fca87eb20
+SHA1: 6623696c440c241406bf2f46441748d6966cea06
+SHA256: fef12e2db77aa09881fa0f323708aec3b0f0cc13c6b1682513e0bcc38e9a99e3
 Section: Applications
-Description: AI character chat for iOS 5, using a local AI bridge.
-Author: Roleplay5
-Name: LegacyAI
-
-Package: com.example.roleplay6
-Version: 2.1.1
-Architecture: iphoneos-arm
-Maintainer: Roleplay6
-Installed-Size: 284
-Depends: firmware (>= 6.0)
-Filename: debs/LegacyAI-iOS6.deb
-Size: 137964
-MD5sum: 668afe1ead37b4c9a93ef87c1b0bfa96
-SHA1: 56e283096c72f49e1be419dc13a5873626e212d1
-SHA256: ce92dd2754820d40b9efa9cf2a9697f9e667694dfa1fee658c83f49b05454379
-Section: Applications
-Description: AI character chat for iOS 6, using a local AI bridge.
-Author: Roleplay6
+Description: AI character roleplay for iOS 5 and later.
+Author: LegacyAI
 Name: LegacyAI
 
 Package: com.ideal-chainsaw.forcehdmi
@@ -61,86 +31,6 @@ Section: Tweaks
 Description: Experimental external-display / HDMI mirroring helper for iOS 6.
 Author: Jonah
 Name: ForceHDMI
-
-Package: com.local.classicblue
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: ClassicBlue
-Installed-Size: 156
-Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 7.0)
-Filename: debs/com.local.classicblue_1.0.0_iphoneos-arm.deb
-Size: 14764
-MD5sum: 6b80f8bbb434b5567b6cc5089b7a138a
-SHA1: 4a36b6e03f407ed87d1cfb3022a91d8bb64c836f
-SHA256: 09aa50da037a92421916bab316b279989f049f56f8ba9cfcd30b42a2b1e93052
-Section: Tweaks
-Description: Custom color for classic iOS 6 blue UIKit controls.
-Author: ClassicBlue
-Name: ClassicBlue
-
-Package: com.local.classicblue
-Version: 1.1.0
-Architecture: iphoneos-arm
-Maintainer: ClassicBlue
-Installed-Size: 188
-Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 7.0)
-Filename: debs/com.local.classicblue_1.1.0_iphoneos-arm.deb
-Size: 19786
-MD5sum: 1f286774154b86f0ea657b46082d1761
-SHA1: 73b9bcd2644f919b8e505d1fed47cf310985d498
-SHA256: d637d79446a093101ba9511e911dc082123518b8ad4b0628a8a22bdb6ca75b93
-Section: Tweaks
-Description: Custom color for classic iOS 6 blue UIKit controls.
-Author: ClassicBlue
-Name: ClassicBlue
-
-Package: com.local.classicblue
-Version: 1.2.0
-Architecture: iphoneos-arm
-Maintainer: ClassicBlue
-Installed-Size: 188
-Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 7.0)
-Filename: debs/com.local.classicblue_1.2.0_iphoneos-arm.deb
-Size: 22388
-MD5sum: fcd1a4644528d40af752aa1fbd57da0d
-SHA1: 1afb996d30176265c28ae89466f2ab11165458e4
-SHA256: 41eda1d481745a02c28875504b492f44924dd5ed12fc3eca9bedd3e4ed0ad202
-Section: Tweaks
-Description: Custom color for classic iOS 6 blue UIKit controls.
-Author: ClassicBlue
-Name: ClassicBlue
-
-Package: com.local.classicblue
-Version: 1.3.0
-Architecture: iphoneos-arm
-Maintainer: ClassicBlue
-Installed-Size: 188
-Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 7.0)
-Filename: debs/com.local.classicblue_1.3.0_iphoneos-arm.deb
-Size: 25934
-MD5sum: c8e4558090137f4486d0498b96f890f0
-SHA1: 678f9be8de3cc932ac3ab0150da3d3b6cae323ad
-SHA256: aa81cf4fcadc380cb8f96120904acca18f31d271021e101cbebda9c31ea40f78
-Section: Tweaks
-Description: Custom color for classic iOS 6 blue UIKit controls.
-Author: ClassicBlue
-Name: ClassicBlue
-
-Package: com.local.classicblue
-Version: 1.3.1
-Architecture: iphoneos-arm
-Maintainer: ClassicBlue
-Installed-Size: 188
-Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 7.0)
-Filename: debs/com.local.classicblue_1.3.1_iphoneos-arm.deb
-Size: 25964
-MD5sum: fbad39b87287fb7ae9c8e5860e681e56
-SHA1: fa482bd5322acb0ff0a59d7fcb53098365a557fa
-SHA256: 7eea18435e9c1f17072568d5d2ac18d08f0520ab460f95e94e965c95af17d89c
-Section: Tweaks
-Description: Custom color for classic iOS 6 blue UIKit controls.
-Author: ClassicBlue
-Name: ClassicBlue
 
 Package: com.local.classicblue
 Version: 1.3.2
