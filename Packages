@@ -1,3 +1,19 @@
+Package: com.example.roleplay4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Roleplay5
+Installed-Size: 356
+Depends: firmware (>= 4.3)
+Filename: debs/LegacyAI-iOS4.deb
+Size: 167678
+MD5sum: e6954eac988b6f4aae5415e35033f7a3
+SHA1: 25eab4d3c67e97e85eed9ee28bf8c542001284d2
+SHA256: 7b082aad0f53c615172f8c440a62e8510236ef01fd3725daf73158c21f94acd3
+Section: Applications
+Description: AI character chat for iOS 4.3, using a local AI bridge.
+Author: Roleplay5
+Name: LegacyAI
+
 Package: com.example.roleplay5
 Version: 1.1.1
 Architecture: iphoneos-arm
