@@ -1,3 +1,19 @@
+Package: com.example.legacyai7
+Version: 3.1.0
+Architecture: iphoneos-arm
+Maintainer: LegacyAI
+Installed-Size: 300
+Depends: firmware (>= 7.0)
+Filename: debs/LegacyAI-iOS7-3.1.deb
+Size: 149008
+MD5sum: 66d69a62825f29ff8dd5bb98ec276d9c
+SHA1: 93af9e56cb6e5160801343d2e669ee04b518306a
+SHA256: cb43d2fb22f9bea871808d95e87c43577b58db0f6c96cfba39b3085d542a5cce
+Section: Applications
+Description: AI character roleplay for iOS 7 with a flat interface.
+Author: LegacyAI
+Name: LegacyAI 7
+
 Package: com.example.roleplay6
 Version: 3.1.0
 Architecture: iphoneos-arm
