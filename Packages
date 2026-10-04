@@ -1,0 +1,34 @@
+Package: com.example.roleplay6
+Version: 3.1.0
+Architecture: iphoneos-arm
+Maintainer: LegacyAI
+Installed-Size: 284
+Depends: firmware (>= 5.0)
+Conflicts: com.example.roleplay5
+Replaces: com.example.roleplay5
+Filename: debs/LegacyAI-3.1.deb
+Size: 143544
+MD5sum: 9eabd0b4ba5c80ed9b2cd8f283cbe3e2
+SHA1: d0e5777671a0f72a108e352bd7cc14f7587b93fd
+SHA256: a312c9f51934b36ab03f6753cd4e00c5c33e00ee413f5a266aacf662c93524d2
+Section: Applications
+Description: AI character roleplay for iOS 5 and later.
+Author: LegacyAI
+Name: LegacyAI
+
+Package: com.ideal-chainsaw.forcehdmi
+Version: 0.1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Jonah
+Installed-Size: 44
+Depends: mobilesubstrate
+Filename: debs/com.ideal-chainsaw.forcehdmi_0.1.0-1+debug_iphoneos-arm.deb
+Size: 7454
+MD5sum: bdb04e2ca6bfee229a572015ae363578
+SHA1: 4fb101e01d1d8137a61a595eba64662483e18f0b
+SHA256: 2c4c540ddf288003bf8c3cda527c22a1203da4cab175a5d305d9e09f92a4ad4e
+Section: Tweaks
+Description: Experimental external-display / HDMI mirroring helper for iOS 6.
+Author: Jonah
+Name: ForceHDMI
+
