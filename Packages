@@ -32,6 +32,24 @@ Description: AI character roleplay for iOS 5 and later.
 Author: LegacyAI
 Name: LegacyAI
 
+Package: com.example.roleplay6
+Version: 3.1.1
+Architecture: iphoneos-arm
+Maintainer: LegacyAI
+Installed-Size: 300
+Depends: firmware (>= 5.0)
+Conflicts: com.example.roleplay5
+Replaces: com.example.roleplay5
+Filename: debs/LegacyAI-3.1.1.deb
+Size: 155166
+MD5sum: bc0d63c6f9d97dc56ce88da84aad5340
+SHA1: 2ef86c66141b718164edb903855ca57dfb488226
+SHA256: 4f21a2a493d7c2ac1be3f556b1d359e5c031ca7908fe0165e41e6b928390f203
+Section: Applications
+Description: AI character roleplay for iOS 5 and later.
+Author: LegacyAI
+Name: LegacyAI
+
 Package: com.ideal-chainsaw.forcehdmi
 Version: 0.1.0-1+debug
 Architecture: iphoneos-arm
