@@ -1,70 +1,18 @@
 Package: com.example.legacyai18
-Version: 3.1.2
+Version: 3.1.4
 Architecture: iphoneos-arm
 Maintainer: LegacyAI
 Installed-Size: 316
 Depends: firmware (>= 5.0)
-Filename: debs/LegacyAI-18plus-3.1.2.deb
-Size: 156946
-MD5sum: 13e1ced77b8d0dae7f34dd71cd93c175
-SHA1: ba7db8eb1653c5d9cd267a72544f0d164c734933
-SHA256: ca9c71ef38de53f9fa1437cbb34ed193857450a708da6fe281ccf28332320e6e
+Filename: debs/LegacyAI-18plus-3.1.4.deb
+Size: 158880
+MD5sum: d402f3a6d61ffc6dc3e36a2875671c9b
+SHA1: 3104f4a5b235eea24cc88d400a58ba3ccbf6c973
+SHA256: 0f6991aebd848be2ea426afb496f8629d5e28bfa8bb5e609aaa22d64e6d79453
 Section: Applications
 Description: Private local-model test edition for iOS 5 and later.
 Author: LegacyAI
 Name: LegacyAI 18+
-
-Package: com.example.legacyai7
-Version: 3.1.0
-Architecture: iphoneos-arm
-Maintainer: LegacyAI
-Installed-Size: 300
-Depends: firmware (>= 7.0)
-Filename: debs/LegacyAI-iOS7-3.1.deb
-Size: 149008
-MD5sum: 66d69a62825f29ff8dd5bb98ec276d9c
-SHA1: 93af9e56cb6e5160801343d2e669ee04b518306a
-SHA256: cb43d2fb22f9bea871808d95e87c43577b58db0f6c96cfba39b3085d542a5cce
-Section: Applications
-Description: AI character roleplay for iOS 7 with a flat interface.
-Author: LegacyAI
-Name: LegacyAI 7
-
-Package: com.example.roleplay6
-Version: 3.1.0
-Architecture: iphoneos-arm
-Maintainer: LegacyAI
-Installed-Size: 284
-Depends: firmware (>= 5.0)
-Conflicts: com.example.roleplay5
-Replaces: com.example.roleplay5
-Filename: debs/LegacyAI-3.1.deb
-Size: 143544
-MD5sum: 9eabd0b4ba5c80ed9b2cd8f283cbe3e2
-SHA1: d0e5777671a0f72a108e352bd7cc14f7587b93fd
-SHA256: a312c9f51934b36ab03f6753cd4e00c5c33e00ee413f5a266aacf662c93524d2
-Section: Applications
-Description: AI character roleplay for iOS 5 and later.
-Author: LegacyAI
-Name: LegacyAI
-
-Package: com.example.roleplay6
-Version: 3.1.1
-Architecture: iphoneos-arm
-Maintainer: LegacyAI
-Installed-Size: 300
-Depends: firmware (>= 5.0)
-Conflicts: com.example.roleplay5
-Replaces: com.example.roleplay5
-Filename: debs/LegacyAI-3.1.1.deb
-Size: 155166
-MD5sum: bc0d63c6f9d97dc56ce88da84aad5340
-SHA1: 2ef86c66141b718164edb903855ca57dfb488226
-SHA256: 4f21a2a493d7c2ac1be3f556b1d359e5c031ca7908fe0165e41e6b928390f203
-Section: Applications
-Description: AI character roleplay for iOS 5 and later.
-Author: LegacyAI
-Name: LegacyAI
 
 Package: com.example.roleplay6
 Version: 3.1.2
