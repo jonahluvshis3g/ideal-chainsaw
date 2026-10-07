@@ -14,3 +14,19 @@ Description: Experimental floating video player for iOS 6.1.2 and YouTube 1.3.0.
 Author: WindowTube
 Name: WindowTube
 
+Package: com.windowtube.tweak
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: WindowTube
+Installed-Size: 60
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0)
+Filename: debs/WindowTube-iOS6-0.1.1.deb
+Size: 14590
+MD5sum: 8de7ad72b77fc7cc65c364e71d5bfe9a
+SHA1: 6692f6885ab10d55ed1f8062c53119d8a002f8c4
+SHA256: d7f3bc73ad34c04ce763071e9253a0c717ec3de1cba66f3726bce421ac5cd308
+Section: Tweaks
+Description: Experimental floating video player for iOS 6.1.2 and YouTube 1.3.0.
+Author: WindowTube
+Name: WindowTube
+
